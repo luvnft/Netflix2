@@ -90,6 +90,7 @@ header {
     background-color: rgba(11, 11, 11, 0.7);
     border: 1px solid red;
     border-radius: 4px;
+    color: #989898;
 }
 
 #signup-button {
