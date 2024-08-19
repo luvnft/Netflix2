@@ -1,0 +1,82 @@
+.tv {
+    height: 600px;
+    background-color: black;
+    color: #fff;
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* download section */
+.download {
+    height: 600px;
+    background-color: black;
+    color: #fff;
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* laptop watch */
+.laptop {
+    height: 600px;
+    background-color: black;
+    color: #fff;
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* kids section */
+.kids {
+    height: 600px;
+    background-color: black;
+    color: #fff;
+    padding: 0px 20px 0px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Questions section */
+.questions {
+    height: 900px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+}
+
+#top-bottom {
+    margin-top: 7rem;
+}
+
+#question {
+    height: 40px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 8px 165px;
+    padding: 18px 20px 15px;
+    background-color: rgba(53, 53, 53, 0.9);
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.6rem;
+}
+
+#question:hover {
+    background-color: rgba(125, 122, 122, 0.7);
+}
+
+.questions,
+#question-heading {
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#heading-footer {
+    font-size: 22px;
+}

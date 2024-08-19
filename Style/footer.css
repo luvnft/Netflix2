@@ -1,0 +1,50 @@
+.footer-one {
+    height: 400px;
+    background-color: black;
+    color: #f9f4f4;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    margin-top: 70px;
+}
+
+ul p {
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 700;
+}
+
+ul a {
+    display: block;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
+ul div {
+    margin-top: 39px;
+}
+
+ul div p {
+    margin-top: 22px;
+}
+
+.bottom-language {
+    margin-top: 22pxs;
+}
+
+#language-bottom {
+    text-decoration: none;
+    margin-right: 0.9rem;
+    border: 0.5px solid rgb(136, 136, 136);
+    padding: 8px 18px 8px 18px;
+    background-color: transparent;
+    border-radius: 5px;
+    color: #fff;
+}
+
+#language-bottom:hover {
+    background-color: #222222;
+}
