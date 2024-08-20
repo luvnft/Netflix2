@@ -1,0 +1,46 @@
+@media (min-width: 220px) and (max-width: 320px) {
+    header {
+        padding: 2.2vw;
+    }
+
+    .nav-bar {
+        height: 14vh;
+    }
+
+    #logo-icon {
+        font-size: 8vw;
+        margin-left: 1.5vw;
+    }
+
+    #language {
+        display: none;
+    }
+
+    #caret {
+        font-size: 0.8rem;
+    }
+
+    .micon-lan {
+        color: #e7e6e6;
+        margin-right: 1.5vw;
+        border: 0.5px solid rgb(136, 136, 136);
+        padding: 1vh 2.8vw;
+        border-radius: 0.3rem;
+    }
+
+    #login {
+        font-weight: 500;
+        padding: 1.1vh 1.6vw;
+        border-radius: 0.3rem;
+        background-color: rgb(240, 0, 0);
+    }
+
+    .paragraph {
+        margin-top: 10vh;
+        line-height: 2.2rem;
+    }
+    .heading-second {
+        font-weight: 200;
+        font-size: 1.2rem;
+    }
+}
